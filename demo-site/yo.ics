@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20211214T133000Z
+DTEND:20211214T143000Z
+DTSTAMP:20211210T180541Z
+ORGANIZER;CN=antoine.lefeuvre@sendinblue.com:mailto:antoine.lefeuvre@sendin
+ blue.com
+UID:5qpj6dkbma76ahfk874h70ovlc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=antoine.lefeuvre@sendinblue.com;X-NUM-GUESTS=0:mailto:antoine.lefeuvre@
+ sendinblue.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lefeuvre.novius@gmail.com;X-NUM-GUESTS=0:mailto:lefeuvre.novius@gma
+ il.com
+X-MICROSOFT-CDO-OWNERAPPTID:2139118544
+CREATED:20211210T120746Z
+DESCRIPTION:More details in <a href="https://sendinblue.slack.com/archives/
+ C1PAFSC7R/p1639150272199200" id="ow4163" __is_owner="true">this #releases t
+ hread</a>&nbsp\;(inc. link to session #2 for US timezones)\n\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\
+ nDo not edit this section of the description.\n\nThis event has a video cal
+ l.\nJoin: https://meet.google.com/vwq-pxop-dyj\n(FR) +33 1 87 40 19 32 PIN:
+  907716905#\nView more phone numbers: https://tel.meet/vwq-pxop-dyj?pin=688
+ 3678130676&hs=7\n\nView your event at https://calendar.google.com/calendar/
+ event?action=VIEW&eid=NXFwajZka2JtYTc2YWhmazg3NGg3MG92bGMgbGVmZXV2cmUubm92a
+ XVzQG0&tok=MzEjYW50b2luZS5sZWZldXZyZUBzZW5kaW5ibHVlLmNvbWMzNGI3OWNkZGFkMzA3
+ MzcxZTE1NTlkNWE2ZWVlYjc5MjM3MmE5MDM&ctz=Europe%2FParis&hl=en_GB&es=1.\n-::~
+ :~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ ::~:~::-
+LAST-MODIFIED:20211210T180538Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sendinblue Conversations demo + Q&A #1
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
